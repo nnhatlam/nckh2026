@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-family: 'Poppins', sans-serif;
+  --brand-primary: #930500;
+  --brand-secondary: #95bbea;
+  --brand-background: #fff8e7;
+  --brand-ink: #35180c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fff8e7 0%, #fff1d4 40%, #f3f8ff 100%);
+  color: var(--brand-ink);
+}
+
+body::before,
+body::after {
+  content: '';
+  position: fixed;
+  z-index: -1;
+  width: 28rem;
+  height: 28rem;
+  border-radius: 9999px;
+  filter: blur(90px);
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+body::before {
+  top: -8rem;
+  left: -9rem;
+  background: radial-gradient(circle, rgba(147, 5, 0, 0.24), rgba(147, 5, 0, 0));
+}
+
+body::after {
+  right: -10rem;
+  bottom: -10rem;
+  background: radial-gradient(circle, rgba(149, 187, 234, 0.56), rgba(149, 187, 234, 0));
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.68);
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  box-shadow: 0 24px 80px rgba(72, 30, 9, 0.12);
+  backdrop-filter: blur(24px);
+}
+
+.survey-shell {
+  background: linear-gradient(180deg, rgba(255, 248, 231, 0.22), rgba(255, 255, 255, 0));
+}
