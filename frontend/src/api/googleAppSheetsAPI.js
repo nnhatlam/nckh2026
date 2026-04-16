@@ -1,4 +1,4 @@
-const FALLBACK_ENDPOINT = 'https://script.google.com/macros/s/AKfycbzQ8XGT2ZLklIMdSVzSdGo0DwanlaGFQ8Yxtrx9uw35Kqb8dP6uJGeDph3d8YtESW4/exec';
+const FALLBACK_ENDPOINT = 'https://script.google.com/macros/s/AKfycbwlKtXWRs6m-81wkrNC3ZT3gBsLgEnR4bqA_QJ45QW6WwLctP4pWYfvP91eo-IQa40m/exec';
 
 export function resolveSurveyEndpoint(explicitEndpoint = '') {
   return explicitEndpoint?.trim() || import.meta.env.VITE_SURVEY_ENDPOINT_URL?.trim() || FALLBACK_ENDPOINT;
