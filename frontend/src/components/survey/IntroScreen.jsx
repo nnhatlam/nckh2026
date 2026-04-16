@@ -17,14 +17,6 @@ export default function IntroScreen({ introCopy, estimatedTime, onStart }) {
             <p className="text-xs font-semibold uppercase tracking-[0.22em] text-brand-primary">Thời lượng</p>
             <p className="mt-2 text-lg font-semibold text-brand-ink">{estimatedTime}</p>
           </div>
-          <div className="rounded-3xl border border-white/70 bg-white/55 p-4 text-sm text-brand-ink/80 backdrop-blur-md">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-brand-primary">Giao diện</p>
-            <p className="mt-2 text-lg font-semibold text-brand-ink">Tối ưu cho laptop và điện thoại</p>
-          </div>
-          <div className="rounded-3xl border border-white/70 bg-white/55 p-4 text-sm text-brand-ink/80 backdrop-blur-md">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-brand-primary">Bảo mật</p>
-            <p className="mt-2 text-lg font-semibold text-brand-ink">Session_ID riêng cho mỗi người trả lời</p>
-          </div>
         </div>
 
         <div className="flex flex-wrap gap-3 pt-2">

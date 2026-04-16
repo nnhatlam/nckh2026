@@ -5,7 +5,7 @@ Sự phát triển của phương tiện xanh đang là xu hướng tất yếu,
 
 Mọi thông tin đóng góp sẽ chỉ phục vụ cho mục đích học thuật và nghiên cứu.
 
-Trân trọng cảm ơn sự hợp tác của Anh/Chị`;
+Trân trọng cảm ơn sự hợp tác của Anh/Chị!`;
 
 export const generalQuestions = [
   {

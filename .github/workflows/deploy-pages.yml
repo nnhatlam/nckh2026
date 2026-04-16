@@ -37,6 +37,8 @@ jobs:
       - name: Build the project
         run: npm run build
         working-directory: ./frontend
+        env:
+          VITE_SURVEY_ENDPOINT_URL: https://script.google.com/macros/s/AKfycbzQ8XGT2ZLklIMdSVzSdGo0DwanlaGFQ8Yxtrx9uw35Kqb8dP6uJGeDph3d8YtESW4/exec
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
