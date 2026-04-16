@@ -52,7 +52,6 @@ export default function ChoiceSetView({
           <p className="text-xs font-bold uppercase tracking-[0.28em] text-brand-primary/75">Bộ lựa chọn DCE</p>
           <p className="mt-1 text-sm font-medium text-brand-ink/70">Câu hỏi {questionIndex + 1} / {totalQuestions}</p>
         </div>
-        <div className="rounded-full border border-brand-secondary/50 bg-brand-secondary/20 px-4 py-2 text-sm font-semibold text-brand-ink">Choice set #{choiceSet.choiceSet}</div>
       </div>
 
       <h3 className="text-xl font-bold leading-snug text-brand-ink sm:text-2xl">Vui lòng chọn phương án phù hợp nhất với Anh/Chị</h3>

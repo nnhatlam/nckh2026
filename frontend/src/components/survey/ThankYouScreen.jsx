@@ -12,17 +12,6 @@ export default function ThankYouScreen({ sessionId, assignedBlock, submissionSta
       <h2 className="mt-5 text-3xl font-bold text-brand-ink">Xin chân thành cảm ơn</h2>
       <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-brand-ink/80">{message}</p>
 
-      <div className="mt-6 grid gap-3 sm:grid-cols-2">
-        <div className="rounded-3xl border border-white/70 bg-white/60 p-4 text-left">
-          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-brand-primary">Session_ID</p>
-          <p className="mt-2 break-all text-sm font-medium text-brand-ink">{sessionId}</p>
-        </div>
-        <div className="rounded-3xl border border-white/70 bg-white/60 p-4 text-left">
-          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-brand-primary">Assigned Block</p>
-          <p className="mt-2 text-sm font-medium text-brand-ink">{assignedBlock}</p>
-        </div>
-      </div>
-
       <div className="mt-6 flex justify-center">
         <Button onClick={onRestart}>Làm lại khảo sát</Button>
       </div>
