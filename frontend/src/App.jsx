@@ -85,7 +85,7 @@ export default function App() {
       answers
     });
 
-    const result = await submitSurvey(import.meta.env.VITE_SURVEY_ENDPOINT_URL, payload);
+    const result = await submitSurvey(payload);
     setSubmissionResult(result);
     setPhase('done');
   }

@@ -24,14 +24,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 24
           cache: "npm"
           cache-dependency-path: "frontend/package-lock.json"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: npm ci
@@ -42,9 +45,7 @@ jobs:
         working-directory: ./frontend
         env:
           VITE_SURVEY_ENDPOINT_URL: https://script.google.com/macros/s/AKfycbzQ8XGT2ZLklIMdSVzSdGo0DwanlaGFQ8Yxtrx9uw35Kqb8dP6uJGeDph3d8YtESW4/exec
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

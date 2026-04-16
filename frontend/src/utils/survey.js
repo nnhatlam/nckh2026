@@ -1,3 +1,5 @@
+import { submitSurveyData } from '../api/googleAppSheetsAPI';
+
 const SESSION_STORAGE_KEY = 'nckh2026:dce-session';
 const OFFLINE_QUEUE_KEY = 'nckh2026:dce-pending-submissions';
 
@@ -156,27 +158,9 @@ function queueOfflineSubmission(payload) {
   window.localStorage.setItem(OFFLINE_QUEUE_KEY, JSON.stringify(currentQueue));
 }
 
-export async function submitSurvey(endpoint, payload) {
-  if (!endpoint) {
-    queueOfflineSubmission(payload);
-    await new Promise((resolve) => window.setTimeout(resolve, 700));
-    return { status: 'queued' };
-  }
-
+export async function submitSurvey(payload) {
   try {
-    const response = await fetch(endpoint, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(payload)
-    });
-
-    if (!response.ok) {
-      throw new Error(`Request failed with status ${response.status}`);
-    }
-
-    return { status: 'sent' };
+    return await submitSurveyData(payload);
   } catch (error) {
     queueOfflineSubmission(payload);
     return { status: 'queued', error: error.message };
