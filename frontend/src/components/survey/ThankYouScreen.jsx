@@ -4,7 +4,9 @@ import Button from '../ui/Button';
 export default function ThankYouScreen({ sessionId, assignedBlock, submissionStatus, onRestart }) {
   const message = submissionStatus === 'sent'
     ? 'Dữ liệu của Anh/Chị đã được gửi thành công đến hệ thống lưu trữ.'
-    : 'Dữ liệu đã được lưu tạm an toàn trong trình duyệt và sẽ được đồng bộ khi endpoint backend được cấu hình.';
+    : submissionStatus === 'sent_unverified'
+      ? 'Yêu cầu gửi đã được dispatch theo chế độ no-cors nên không thể xác minh trạng thái phản hồi từ trình duyệt. Vui lòng kiểm tra Google Sheet để xác nhận dữ liệu đã ghi nhận.'
+      : 'Dữ liệu đã được lưu tạm an toàn trong trình duyệt và sẽ được đồng bộ khi endpoint backend được cấu hình.';
 
   return (
     <GlassCard className="border border-white/60 bg-white/72 text-center shadow-glass">

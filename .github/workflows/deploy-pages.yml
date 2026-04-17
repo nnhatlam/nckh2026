@@ -44,7 +44,7 @@ jobs:
         run: npm run build
         working-directory: ./frontend
         env:
-          VITE_SURVEY_ENDPOINT_URL: https://script.google.com/macros/s/AKfycbzQ8XGT2ZLklIMdSVzSdGo0DwanlaGFQ8Yxtrx9uw35Kqb8dP6uJGeDph3d8YtESW4/exec
+          VITE_SURVEY_ENDPOINT_URL: ${{ vars.VITE_SURVEY_ENDPOINT_URL }}
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
 
       - name: Upload artifact

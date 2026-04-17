@@ -4,21 +4,21 @@
     "choiceSet": 1,
     "block": 1,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -27,21 +27,21 @@
     "choiceSet": 2,
     "block": 1,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -50,21 +50,21 @@
     "choiceSet": 3,
     "block": 1,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -73,21 +73,21 @@
     "choiceSet": 4,
     "block": 1,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -96,21 +96,21 @@
     "choiceSet": 5,
     "block": 2,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -119,21 +119,21 @@
     "choiceSet": 6,
     "block": 2,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -142,21 +142,21 @@
     "choiceSet": 7,
     "block": 2,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -165,21 +165,21 @@
     "choiceSet": 8,
     "block": 2,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -188,21 +188,21 @@
     "choiceSet": 9,
     "block": 3,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -211,21 +211,21 @@
     "choiceSet": 10,
     "block": 3,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -234,21 +234,21 @@
     "choiceSet": 11,
     "block": 3,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -257,21 +257,21 @@
     "choiceSet": 12,
     "block": 3,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -280,21 +280,21 @@
     "choiceSet": 13,
     "block": 4,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -303,21 +303,21 @@
     "choiceSet": 14,
     "block": 4,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -326,21 +326,21 @@
     "choiceSet": 15,
     "block": 4,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -349,21 +349,21 @@
     "choiceSet": 16,
     "block": 4,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -372,21 +372,21 @@
     "choiceSet": 17,
     "block": 5,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -395,21 +395,21 @@
     "choiceSet": 18,
     "block": 5,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -418,21 +418,21 @@
     "choiceSet": 19,
     "block": 5,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -441,21 +441,21 @@
     "choiceSet": 20,
     "block": 5,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -464,21 +464,21 @@
     "choiceSet": 21,
     "block": 6,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -487,21 +487,21 @@
     "choiceSet": 22,
     "block": 6,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -510,21 +510,21 @@
     "choiceSet": 23,
     "block": 6,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -533,21 +533,21 @@
     "choiceSet": 24,
     "block": 6,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -556,21 +556,21 @@
     "choiceSet": 25,
     "block": 7,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -579,21 +579,21 @@
     "choiceSet": 26,
     "block": 7,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -602,21 +602,21 @@
     "choiceSet": 27,
     "block": 7,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -625,21 +625,21 @@
     "choiceSet": 28,
     "block": 7,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -648,21 +648,21 @@
     "choiceSet": 29,
     "block": 8,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -671,21 +671,21 @@
     "choiceSet": 30,
     "block": 8,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -694,21 +694,21 @@
     "choiceSet": 31,
     "block": 8,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -717,21 +717,21 @@
     "choiceSet": 32,
     "block": 8,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -740,21 +740,21 @@
     "choiceSet": 33,
     "block": 9,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -763,21 +763,21 @@
     "choiceSet": 34,
     "block": 9,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -786,21 +786,21 @@
     "choiceSet": 35,
     "block": 9,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -809,21 +809,21 @@
     "choiceSet": 36,
     "block": 9,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -832,21 +832,21 @@
     "choiceSet": 37,
     "block": 10,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -855,21 +855,21 @@
     "choiceSet": 38,
     "block": 10,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -878,21 +878,21 @@
     "choiceSet": 39,
     "block": 10,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -901,21 +901,21 @@
     "choiceSet": 40,
     "block": 10,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -924,21 +924,21 @@
     "choiceSet": 41,
     "block": 11,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -947,21 +947,21 @@
     "choiceSet": 42,
     "block": 11,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -970,21 +970,21 @@
     "choiceSet": 43,
     "block": 11,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -993,21 +993,21 @@
     "choiceSet": 44,
     "block": 11,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1016,21 +1016,21 @@
     "choiceSet": 45,
     "block": 12,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1039,21 +1039,21 @@
     "choiceSet": 46,
     "block": 12,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1062,21 +1062,21 @@
     "choiceSet": 47,
     "block": 12,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1085,21 +1085,21 @@
     "choiceSet": 48,
     "block": 12,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1108,21 +1108,21 @@
     "choiceSet": 49,
     "block": 13,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1131,21 +1131,21 @@
     "choiceSet": 50,
     "block": 13,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1154,21 +1154,21 @@
     "choiceSet": 51,
     "block": 13,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1177,21 +1177,21 @@
     "choiceSet": 52,
     "block": 13,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1200,21 +1200,21 @@
     "choiceSet": 53,
     "block": 14,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1223,21 +1223,21 @@
     "choiceSet": 54,
     "block": 14,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1246,21 +1246,21 @@
     "choiceSet": 55,
     "block": 14,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1269,21 +1269,21 @@
     "choiceSet": 56,
     "block": 14,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1292,21 +1292,21 @@
     "choiceSet": 57,
     "block": 15,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1315,21 +1315,21 @@
     "choiceSet": 58,
     "block": 15,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1338,21 +1338,21 @@
     "choiceSet": 59,
     "block": 15,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1361,21 +1361,21 @@
     "choiceSet": 60,
     "block": 15,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1384,21 +1384,21 @@
     "choiceSet": 61,
     "block": 16,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1407,21 +1407,21 @@
     "choiceSet": 62,
     "block": 16,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1430,21 +1430,21 @@
     "choiceSet": 63,
     "block": 16,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1453,21 +1453,21 @@
     "choiceSet": 64,
     "block": 16,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -1476,21 +1476,21 @@
     "choiceSet": 65,
     "block": 17,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1499,21 +1499,21 @@
     "choiceSet": 66,
     "block": 17,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1522,21 +1522,21 @@
     "choiceSet": 67,
     "block": 17,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1545,21 +1545,21 @@
     "choiceSet": 68,
     "block": 17,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -1568,21 +1568,21 @@
     "choiceSet": 69,
     "block": 18,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1591,21 +1591,21 @@
     "choiceSet": 70,
     "block": 18,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1614,21 +1614,21 @@
     "choiceSet": 71,
     "block": 18,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1637,21 +1637,21 @@
     "choiceSet": 72,
     "block": 18,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1660,21 +1660,21 @@
     "choiceSet": 73,
     "block": 19,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1683,21 +1683,21 @@
     "choiceSet": 74,
     "block": 19,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1706,21 +1706,21 @@
     "choiceSet": 75,
     "block": 19,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1729,21 +1729,21 @@
     "choiceSet": 76,
     "block": 19,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1752,21 +1752,21 @@
     "choiceSet": 77,
     "block": 20,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1775,21 +1775,21 @@
     "choiceSet": 78,
     "block": 20,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1798,21 +1798,21 @@
     "choiceSet": 79,
     "block": 20,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1821,21 +1821,21 @@
     "choiceSet": 80,
     "block": 20,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1844,21 +1844,21 @@
     "choiceSet": 81,
     "block": 21,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1867,21 +1867,21 @@
     "choiceSet": 82,
     "block": 21,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1890,21 +1890,21 @@
     "choiceSet": 83,
     "block": 21,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1913,21 +1913,21 @@
     "choiceSet": 84,
     "block": 21,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -1936,21 +1936,21 @@
     "choiceSet": 85,
     "block": 22,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -1959,21 +1959,21 @@
     "choiceSet": 86,
     "block": 22,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -1982,21 +1982,21 @@
     "choiceSet": 87,
     "block": 22,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -2005,21 +2005,21 @@
     "choiceSet": 88,
     "block": 22,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2028,21 +2028,21 @@
     "choiceSet": 89,
     "block": 23,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2051,21 +2051,21 @@
     "choiceSet": 90,
     "block": 23,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2074,21 +2074,21 @@
     "choiceSet": 91,
     "block": 23,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2097,21 +2097,21 @@
     "choiceSet": 92,
     "block": 23,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2120,21 +2120,21 @@
     "choiceSet": 93,
     "block": 24,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -2143,21 +2143,21 @@
     "choiceSet": 94,
     "block": 24,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2166,21 +2166,21 @@
     "choiceSet": 95,
     "block": 24,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2189,21 +2189,21 @@
     "choiceSet": 96,
     "block": 24,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2212,21 +2212,21 @@
     "choiceSet": 97,
     "block": 25,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -2235,21 +2235,21 @@
     "choiceSet": 98,
     "block": 25,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2258,21 +2258,21 @@
     "choiceSet": 99,
     "block": 25,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2281,21 +2281,21 @@
     "choiceSet": 100,
     "block": 25,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2304,21 +2304,21 @@
     "choiceSet": 101,
     "block": 26,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2327,21 +2327,21 @@
     "choiceSet": 102,
     "block": 26,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -2350,21 +2350,21 @@
     "choiceSet": 103,
     "block": 26,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2373,21 +2373,21 @@
     "choiceSet": 104,
     "block": 26,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2396,21 +2396,21 @@
     "choiceSet": 105,
     "block": 27,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2419,21 +2419,21 @@
     "choiceSet": 106,
     "block": 27,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2442,21 +2442,21 @@
     "choiceSet": 107,
     "block": 27,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2465,21 +2465,21 @@
     "choiceSet": 108,
     "block": 27,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2488,21 +2488,21 @@
     "choiceSet": 109,
     "block": 28,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2511,21 +2511,21 @@
     "choiceSet": 110,
     "block": 28,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2534,21 +2534,21 @@
     "choiceSet": 111,
     "block": 28,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2557,21 +2557,21 @@
     "choiceSet": 112,
     "block": 28,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2580,21 +2580,21 @@
     "choiceSet": 113,
     "block": 29,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2603,21 +2603,21 @@
     "choiceSet": 114,
     "block": 29,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2626,21 +2626,21 @@
     "choiceSet": 115,
     "block": 29,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2649,21 +2649,21 @@
     "choiceSet": 116,
     "block": 29,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2672,21 +2672,21 @@
     "choiceSet": 117,
     "block": 30,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2695,21 +2695,21 @@
     "choiceSet": 118,
     "block": 30,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2718,21 +2718,21 @@
     "choiceSet": 119,
     "block": 30,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2741,21 +2741,21 @@
     "choiceSet": 120,
     "block": 30,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2764,21 +2764,21 @@
     "choiceSet": 121,
     "block": 31,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2787,21 +2787,21 @@
     "choiceSet": 122,
     "block": 31,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2810,21 +2810,21 @@
     "choiceSet": 123,
     "block": 31,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2833,21 +2833,21 @@
     "choiceSet": 124,
     "block": 31,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2856,21 +2856,21 @@
     "choiceSet": 125,
     "block": 32,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2879,21 +2879,21 @@
     "choiceSet": 126,
     "block": 32,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2902,21 +2902,21 @@
     "choiceSet": 127,
     "block": 32,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2925,21 +2925,21 @@
     "choiceSet": 128,
     "block": 32,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2948,21 +2948,21 @@
     "choiceSet": 129,
     "block": 33,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -2971,21 +2971,21 @@
     "choiceSet": 130,
     "block": 33,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -2994,21 +2994,21 @@
     "choiceSet": 131,
     "block": 33,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3017,21 +3017,21 @@
     "choiceSet": 132,
     "block": 33,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3040,21 +3040,21 @@
     "choiceSet": 133,
     "block": 34,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3063,21 +3063,21 @@
     "choiceSet": 134,
     "block": 34,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3086,21 +3086,21 @@
     "choiceSet": 135,
     "block": 34,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3109,21 +3109,21 @@
     "choiceSet": 136,
     "block": 34,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3132,21 +3132,21 @@
     "choiceSet": 137,
     "block": 35,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3155,21 +3155,21 @@
     "choiceSet": 138,
     "block": 35,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3178,21 +3178,21 @@
     "choiceSet": 139,
     "block": 35,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -3201,21 +3201,21 @@
     "choiceSet": 140,
     "block": 35,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3224,21 +3224,21 @@
     "choiceSet": 141,
     "block": 36,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 50 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3247,21 +3247,21 @@
     "choiceSet": 142,
     "block": 36,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -3270,21 +3270,21 @@
     "choiceSet": 143,
     "block": 36,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3293,21 +3293,21 @@
     "choiceSet": 144,
     "block": 36,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3316,21 +3316,21 @@
     "choiceSet": 145,
     "block": 37,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3339,21 +3339,21 @@
     "choiceSet": 146,
     "block": 37,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     }
   },
@@ -3362,21 +3362,21 @@
     "choiceSet": 147,
     "block": 37,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3385,21 +3385,21 @@
     "choiceSet": 148,
     "block": 37,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3408,21 +3408,21 @@
     "choiceSet": 149,
     "block": 38,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3431,21 +3431,21 @@
     "choiceSet": 150,
     "block": 38,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3454,21 +3454,21 @@
     "choiceSet": 151,
     "block": 38,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3477,21 +3477,21 @@
     "choiceSet": 152,
     "block": 38,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 60 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nhập khẩu",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "70 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3500,21 +3500,21 @@
     "choiceSet": 153,
     "block": 39,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3523,21 +3523,21 @@
     "choiceSet": 154,
     "block": 39,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "200 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3546,21 +3546,21 @@
     "choiceSet": 155,
     "block": 39,
     "alt1": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "4 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3569,21 +3569,21 @@
     "choiceSet": 156,
     "block": 39,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nhập khẩu (Yadea, Yamaha, Honda)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nhập khẩu",
+      "brand": "Hãng mới",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin chì – 55 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3592,21 +3592,21 @@
     "choiceSet": 157,
     "block": 40,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "30% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "100 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "0% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 20% số cây xăng",
+      "station": "Số trạm sạc bằng 20% số cây xăng",
       "chargeTime": "12 giờ sạc đầy"
     }
   },
@@ -3615,21 +3615,21 @@
     "choiceSet": 158,
     "block": 40,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3638,21 +3638,21 @@
     "choiceSet": 159,
     "block": 40,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "10% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 80 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   },
@@ -3661,21 +3661,21 @@
     "choiceSet": 160,
     "block": 40,
     "alt1": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng truyền thống (Honda, Yamaha)",
+      "origin": "Hàng nội địa  ",
+      "brand": " Hãng truyền thống",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 60 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 80% số cây xăng",
+      "station": "Số trạm sạc bằng 80% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     },
     "alt2": {
-      "origin": "Hàng nội địa (Vinfast, Datbike)",
-      "brand": "Hãng mới (Vinfast, Yadea)",
+      "origin": "Hàng nội địa  ",
+      "brand": "Hãng mới",
       "price": "60% cao hơn xe xăng",
       "batteryEnergy": "Pin LION – 30 VND/km",
       "range": "60 km",
-      "station": "có số trạm sạc bằng 50% số cây xăng",
+      "station": "Số trạm sạc bằng 50% số cây xăng",
       "chargeTime": "5 giờ sạc đầy"
     }
   }

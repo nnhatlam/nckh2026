@@ -114,11 +114,25 @@ export function choiceSetKey(choiceSet) {
   return `choice-set-${choiceSet.setId}`;
 }
 
-export function buildSubmissionPayload({ session, generalQuestions, answers }) {
+export function buildSubmissionPayload({ session, generalQuestions, personalQuestions = [], answers }) {
+  function normalizeAnswerValue(answer) {
+    if (Array.isArray(answer)) {
+      return answer;
+    }
+
+    return answer ?? null;
+  }
+
   const generalAnswers = generalQuestions.map((question) => ({
     id: question.id,
     prompt: question.prompt,
-    answer: answers[question.id] ?? null
+    answer: normalizeAnswerValue(answers[question.id])
+  }));
+
+  const personalAnswers = personalQuestions.map((question) => ({
+    id: question.id,
+    prompt: question.prompt,
+    answer: normalizeAnswerValue(answers[question.id])
   }));
 
   const choiceResponses = session.choiceSets.map((choiceSet) => {
@@ -143,6 +157,7 @@ export function buildSubmissionPayload({ session, generalQuestions, answers }) {
     assignedBlock: session.assignedBlock,
     completedAt: new Date().toISOString(),
     generalAnswers,
+    personalAnswers,
     choiceResponses,
     answers
   };

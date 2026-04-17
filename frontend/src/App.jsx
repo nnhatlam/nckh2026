@@ -1,11 +1,13 @@
 import { useEffect, useMemo, useState } from 'react';
 import choiceSets from './data/choice_sets.json';
 import { generalQuestions, introductionCopy } from './data/generalQuestions';
+import { personalQuestions } from './data/personalQuestions';
 import SiteHeader from './components/layout/SiteHeader';
 import SiteFooter from './components/layout/SiteFooter';
 import IntroScreen from './components/survey/IntroScreen';
 import GeneralQuestionView from './components/survey/GeneralQuestionView';
 import ChoiceSetView from './components/survey/ChoiceSetView';
+import PersonalQuestionView from './components/survey/PersonalQuestionView';
 import LoadingOverlay from './components/survey/LoadingOverlay';
 import ThankYouScreen from './components/survey/ThankYouScreen';
 import DeclinedScreen from './components/survey/DeclinedScreen';
@@ -15,30 +17,39 @@ const ESTIMATED_TIME = '8 - 12 phút';
 
 export default function App() {
   const surveySession = useMemo(() => createSurveySession(choiceSets), []);
-  const surveySteps = useMemo(
-    () => [
-      ...generalQuestions.map((question) => ({ ...question, stepType: 'general' })),
-      ...surveySession.choiceSets.map((choiceSet) => ({
-        ...choiceSet,
-        id: choiceSetKey(choiceSet),
-        stepType: 'choice'
-      }))
-    ],
-    [surveySession.choiceSets]
+  const consentQuestion = useMemo(
+    () => generalQuestions.find((question) => question.id === 'consent') || null,
+    []
+  );
+  const generalSurveyQuestions = useMemo(
+    () => generalQuestions.filter((question) => question.id !== 'consent'),
+    []
   );
 
   const [phase, setPhase] = useState('landing');
-  const [currentStepIndex, setCurrentStepIndex] = useState(0);
+  const [currentChoiceIndex, setCurrentChoiceIndex] = useState(0);
   const [answers, setAnswers] = useState({});
   const [submissionResult, setSubmissionResult] = useState({ status: 'idle' });
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  }, [phase, currentStepIndex]);
+  }, [phase, currentChoiceIndex]);
 
-  const currentStep = surveySteps[currentStepIndex];
-  const totalQuestions = surveySteps.length;
-  const progress = phase === 'landing' ? 0 : Math.min(((currentStepIndex + 1) / totalQuestions) * 100, 100);
+  const totalProgressSteps = surveySession.choiceSets.length + 3;
+  const currentProgressStep = phase === 'landing'
+    ? 0
+    : phase === 'consent'
+      ? 1
+      : phase === 'general'
+        ? 2
+      : phase === 'choice'
+        ? currentChoiceIndex + 3
+        : phase === 'personal' || phase === 'submitting' || phase === 'done'
+          ? totalProgressSteps
+          : 0;
+  const progress = Math.min((currentProgressStep / totalProgressSteps) * 100, 100);
+
+  const currentChoiceSet = surveySession.choiceSets[currentChoiceIndex];
 
   function updateAnswer(stepId, value) {
     setAnswers((previous) => ({
@@ -47,33 +58,40 @@ export default function App() {
     }));
   }
 
-  function goNext() {
-    if (!currentStep) {
+  function goFromConsentToGeneral() {
+    if (answers.consent === 'Tôi không đồng ý') {
+      setPhase('declined');
       return;
     }
 
-    if (currentStep.stepType === 'general' && currentStep.id === 'consent') {
-      const consentValue = answers[currentStep.id];
-      if (consentValue === 'Tôi không đồng ý') {
-        setPhase('declined');
-        return;
-      }
-    }
-
-    if (currentStepIndex === surveySteps.length - 1) {
-      void handleSubmit();
-      return;
-    }
-
-    setCurrentStepIndex((index) => index + 1);
+    setPhase('general');
   }
 
-  function goBack() {
-    if (currentStepIndex === 0) {
+  function goFromGeneralToChoice() {
+    setPhase('choice');
+  }
+
+  function goChoiceNext() {
+    if (currentChoiceIndex === surveySession.choiceSets.length - 1) {
+      setPhase('personal');
       return;
     }
 
-    setCurrentStepIndex((index) => index - 1);
+    setCurrentChoiceIndex((index) => index + 1);
+  }
+
+  function goChoiceBack() {
+    if (currentChoiceIndex === 0) {
+      setPhase('general');
+      return;
+    }
+
+    setCurrentChoiceIndex((index) => index - 1);
+  }
+
+  function goBackFromPersonal() {
+    setPhase('choice');
+    setCurrentChoiceIndex(surveySession.choiceSets.length - 1);
   }
 
   async function handleSubmit() {
@@ -82,6 +100,7 @@ export default function App() {
     const payload = buildSubmissionPayload({
       session: surveySession,
       generalQuestions,
+      personalQuestions,
       answers
     });
 
@@ -93,7 +112,7 @@ export default function App() {
   function handleRestart() {
     window.sessionStorage.removeItem('nckh2026:dce-session');
     setAnswers({});
-    setCurrentStepIndex(0);
+    setCurrentChoiceIndex(0);
     setSubmissionResult({ status: 'idle' });
     setPhase('landing');
     window.location.reload();
@@ -105,7 +124,7 @@ export default function App() {
         <IntroScreen
           introCopy={introductionCopy}
           estimatedTime={ESTIMATED_TIME}
-          onStart={() => setPhase('survey')}
+          onStart={() => setPhase('consent')}
         />
       );
     }
@@ -125,45 +144,73 @@ export default function App() {
       );
     }
 
-    if (!currentStep) {
-      return null;
-    }
-
-    if (currentStep.stepType === 'general') {
+    if (phase === 'consent' && consentQuestion) {
       return (
         <GeneralQuestionView
-          question={currentStep}
-          value={answers[currentStep.id]}
-          onChange={(value) => updateAnswer(currentStep.id, value)}
-          onNext={goNext}
-          onBack={goBack}
-          isFirst={currentStepIndex === 0}
-          isLast={currentStepIndex === surveySteps.length - 1}
-          questionIndex={currentStepIndex}
-          totalQuestions={totalQuestions}
+          questions={[consentQuestion]}
+          answers={answers}
+          onChange={updateAnswer}
+          onNext={goFromConsentToGeneral}
+          title="Phần 1: Xác nhận tham gia"
+          subtitle="Vui lòng xác nhận đồng ý trước khi tiếp tục khảo sát"
+          nextButtonLabel="Tiếp tục"
         />
       );
     }
 
-    return (
+    if (phase === 'general') {
+      return (
+        <GeneralQuestionView
+          questions={generalSurveyQuestions}
+          answers={answers}
+          onChange={updateAnswer}
+          onNext={goFromGeneralToChoice}
+          title="Phần 2: Câu hỏi chung"
+          subtitle="Vui lòng trả lời toàn bộ câu hỏi trước khi tiếp tục"
+          nextButtonLabel="Bắt đầu phần lựa chọn"
+        />
+      );
+    }
+
+    if (phase === 'choice' && currentChoiceSet) {
+      const currentChoiceKey = choiceSetKey(currentChoiceSet);
+
+      return (
       <ChoiceSetView
-        choiceSet={currentStep}
-        value={answers[currentStep.id]}
-        onChange={(value) => updateAnswer(currentStep.id, value)}
-        onNext={goNext}
-        onBack={goBack}
-        onOptOut={() => updateAnswer(currentStep.id, {
+        choiceSet={currentChoiceSet}
+        value={answers[currentChoiceKey]}
+        onChange={(value) => updateAnswer(currentChoiceKey, value)}
+        onNext={goChoiceNext}
+        onBack={goChoiceBack}
+        onOptOut={() => updateAnswer(currentChoiceKey, {
           selected: null,
           selectedSourceKey: null,
           selectedLabel: null,
           optOut: true
         })}
-        isFirst={currentStepIndex === 0}
-        isLast={currentStepIndex === surveySteps.length - 1}
-        questionIndex={currentStepIndex}
-        totalQuestions={totalQuestions}
+        isFirst={currentChoiceIndex === 0}
+        isLast={currentChoiceIndex === surveySession.choiceSets.length - 1}
+        questionIndex={currentChoiceIndex}
+        totalQuestions={surveySession.choiceSets.length}
       />
-    );
+      );
+    }
+
+    if (phase === 'personal') {
+      return (
+        <PersonalQuestionView
+          questions={personalQuestions}
+          answers={answers}
+          onChange={updateAnswer}
+          onSubmit={() => {
+            void handleSubmit();
+          }}
+          onBack={goBackFromPersonal}
+        />
+      );
+    }
+
+    return null;
   }
 
   return (
@@ -173,7 +220,7 @@ export default function App() {
       <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 lg:px-8 lg:py-10" id="survey-preview">
         <div className="mb-6 rounded-[1.75rem] border border-white/50 bg-white/50 p-3 shadow-sm backdrop-blur-md">
           <div className="flex items-center justify-between gap-4 px-2 pb-3 text-sm font-medium text-brand-ink/80">
-            <span>{phase === 'landing' ? 'Sẵn sàng bắt đầu' : phase === 'survey' ? 'Đang thực hiện khảo sát' : phase === 'submitting' ? 'Đang đồng bộ' : 'Hoàn tất'}</span>
+            <span>{phase === 'landing' ? 'Sẵn sàng bắt đầu' : phase === 'submitting' ? 'Đang đồng bộ' : phase === 'done' ? 'Hoàn tất' : 'Đang thực hiện khảo sát'}</span>
             <span>{phase === 'landing' ? '0%' : `${Math.round(progress)}%`}</span>
           </div>
           <div className="h-2 overflow-hidden rounded-full bg-white/70">

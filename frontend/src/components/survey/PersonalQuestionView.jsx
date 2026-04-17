@@ -29,40 +29,6 @@ function RadioGroup({ options, value, onChange, name }) {
   );
 }
 
-function CheckboxGroup({ options, value, onChange }) {
-  const selectedValues = Array.isArray(value) ? value : [];
-
-  function toggleItem(option) {
-    const next = selectedValues.includes(option)
-      ? selectedValues.filter((item) => item !== option)
-      : [...selectedValues, option];
-    onChange(next);
-  }
-
-  return (
-    <div className="grid gap-3 sm:grid-cols-2">
-      {options.map((option) => {
-        const checked = selectedValues.includes(option);
-
-        return (
-          <label
-            key={option}
-            className={`flex cursor-pointer items-start gap-3 rounded-2xl border px-4 py-3 transition ${checked ? 'border-brand-primary bg-brand-primary/10 shadow-md shadow-brand-primary/10' : 'border-white/70 bg-white/55 hover:bg-white/70'}`}
-          >
-            <input
-              type="checkbox"
-              className="mt-1 h-4 w-4 accent-brand-primary"
-              checked={checked}
-              onChange={() => toggleItem(option)}
-            />
-            <span className="text-sm font-medium text-brand-ink">{option}</span>
-          </label>
-        );
-      })}
-    </div>
-  );
-}
-
 function isAnswered(question, value) {
   if (question.type === 'multi') {
     return Array.isArray(value) && value.length > 0;
@@ -75,25 +41,17 @@ function isAnswered(question, value) {
   return value !== null && value !== undefined && value !== '';
 }
 
-export default function GeneralQuestionView({
-  questions,
-  answers,
-  onChange,
-  onNext,
-  title = 'Phần câu hỏi chung',
-  subtitle = 'Vui lòng trả lời toàn bộ câu hỏi trước khi tiếp tục',
-  nextButtonLabel = 'Tiếp tục'
-}) {
+export default function PersonalQuestionView({ questions, answers, onChange, onSubmit, onBack }) {
   const allAnswered = questions.every((question) => isAnswered(question, answers[question.id]));
 
   return (
     <GlassCard className="border border-white/60 bg-white/68 shadow-glass">
       <div className="mb-6 flex items-center justify-between gap-4">
         <div>
-          <p className="text-xs font-bold uppercase tracking-[0.28em] text-brand-primary/75">{title}</p>
-          <p className="mt-1 text-sm font-medium text-brand-ink/70">{subtitle}</p>
+          <p className="text-xs font-bold uppercase tracking-[0.28em] text-brand-primary/75">Phần 3: Thông tin cá nhân</p>
+          <p className="mt-1 text-sm font-medium text-brand-ink/70">Đây là phần cuối cùng trước khi gửi khảo sát</p>
         </div>
-        <div className="rounded-full border border-brand-secondary/50 bg-brand-secondary/20 px-4 py-2 text-sm font-semibold text-brand-ink">Thông tin chung</div>
+        <div className="rounded-full border border-brand-secondary/50 bg-brand-secondary/20 px-4 py-2 text-sm font-semibold text-brand-ink">Thông tin cá nhân</div>
       </div>
 
       <div className="max-h-[62vh] space-y-6 overflow-y-auto pr-1">
@@ -112,14 +70,6 @@ export default function GeneralQuestionView({
                     value={value}
                     onChange={(nextValue) => onChange(question.id, nextValue)}
                     name={question.id}
-                  />
-                ) : null}
-
-                {question.type === 'multi' ? (
-                  <CheckboxGroup
-                    options={question.options}
-                    value={value}
-                    onChange={(nextValue) => onChange(question.id, nextValue)}
                   />
                 ) : null}
 
@@ -148,8 +98,9 @@ export default function GeneralQuestionView({
         })}
       </div>
 
-      <div className="mt-8 flex justify-end">
-        <Button onClick={onNext} disabled={!allAnswered}>{nextButtonLabel}</Button>
+      <div className="mt-8 flex flex-col-reverse gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <Button variant="ghost" onClick={onBack}>Quay lại phần lựa chọn</Button>
+        <Button onClick={onSubmit} disabled={!allAnswered}>Gửi khảo sát</Button>
       </div>
     </GlassCard>
   );
